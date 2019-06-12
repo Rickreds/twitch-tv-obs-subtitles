@@ -17,23 +17,22 @@ div#subtitle {
     top: 0px;
     left: 0px;
     background: transparent;
-    font-family: "San Francisco",
-        "Helvetica Neue", "Helvetica",
-        Arial, Sans-Serif;
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter",
+    "Lucida Typewriter", monospace;
     font-size: calc( 3vh + 3vw );
     font-weight: 200;
-    line-height: calc( 4vh + 3vw );
-    color: #fefef2;
-    text-shadow: 3px 1px 4px #222;
+    line-height: 250;
+    color: #ffff00;
+    text-shadow: 3px 0px 0px #ffffff;
     display: flex;
     flex-direction: column;
     flex-flow: column wrap;
     align-items: center;
     justify-content: center;
     align-content: center;
-    text-align: left;
-    width: auto;
-    height: auto;
+    text-align: center;
+    width: 1800;
+    height: 156;
 }
 
 div#hero {
